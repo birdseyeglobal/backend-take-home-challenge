@@ -100,7 +100,7 @@ Think about these things as you are designing your implementation
 - Deployment: Can we hit the API?
 
 ### Deliverables
-Please clone the provided Git repository, add your code, then push your changes or submit a link to your repository:
+Please fork the provided Git repository and submit a link to your repository:
 
 - Source code in Python + FastAPI.
 - App setup (Dockerfile / docker-compose / sh script).
@@ -109,6 +109,7 @@ Please clone the provided Git repository, add your code, then push your changes 
   - How to run tests
   - Any design notes or trade-offs you made
 
+Feel free to reach out to discuss any features or to get a review on a pr pre-submission.
 In the following interview we will be spinning up your service and running some locust tests on it.
 
 Good luck and have fun.
