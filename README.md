@@ -10,10 +10,11 @@ You must build a **FastAPI**-based microservice that handles two primary functio
 Your goal is to design, implement, and deploy this service so we can test it live and evaluate its code and performance characteristics.
 
 **Important**: This brief describes a lot of functionality. If you don't have the time to fully design and implement the features described in this brief that is fine!
-Try to immplement a solution:
+Try to implement a solution:
 1. written using fastapi
 2. has a database layer
 3. can easily be run locally for testing
+4. it's ok to use AI but make sure you still show off your capabilities as an engineer (no slop, make sure that any generated code is thoroughly reviewed)
 
 ## Requirements
 
